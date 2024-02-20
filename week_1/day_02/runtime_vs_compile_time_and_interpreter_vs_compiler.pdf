@@ -1,0 +1,30 @@
+Runtime vs compile time
+
+Runtime(execuation time) --> Runtime is when your code is executed.
+                              Runtime (or execution time) occurs when your compiled program is actually executed by the computer.
+                              
+                              Runtime errors can be:
+                                    ○ Division by zero
+                                    ○ Square root of negative numbers,
+                                    etc
+
+            
+            
+            
+Compile Time --> Compile time When you build your code. It refers to the phase when your program is transformed into machine readable 
+                    code(0, 1).
+                    
+                Compile time errors can be:
+                    ○ Syntax errors
+                    ○ Semantic errors
+                    
+                    
+Interpreter Vs Compiler
+
+Interpreter --> Interpreter is a program that converts source code to machine code line by line when program is executed.
+                Example: Python, Ruby, etc
+                
+                
+Compiler -->  Compiler is a program that converts source code to machine code in one go and generate executable file that can be run directly               by the computer 
+
+              Example: C, C++, Java etc      
