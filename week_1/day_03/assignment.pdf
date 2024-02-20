@@ -1,0 +1,68 @@
+# 1. Write a python program to draw a triangle shape using print statement only.
+
+print('        *         ')
+print('      *   *       ')
+print('    *       *     ')
+print('  *           *   ')
+print('*   *   *   *   * ')
+
+
+
+# 2. Python Program to Make a Simple Calculator
+
+def add(num1, num2):
+    return num1 + num2
+def diff(num1, num2):
+    return num1 - num2
+def mul(num1, num2):
+    return num1 * num2
+def divide(num1, num2):
+    return num1 / num2
+
+first_num = int(input('Enter first number:'))
+Second_num = int(input('Enter Second number:'))
+
+print(add(first_num, Second_num))
+print(diff(first_num, Second_num))
+print(mul(first_num, Second_num))
+print(divide(first_num, Second_num))
+
+
+# 3. Create a variable named variable test in snake case format and assign value “my
+# first variable assignment”. Print the result.
+my_variable = "My first variable assignment"
+my_variable
+
+
+
+# 4. Create a variable named age and assign value as 20. Print the result.
+age = 20
+age
+
+
+# 5. Create a variable called z, assign x + y to it, and Display the result.
+# Initialize,
+# x = 20, y = 30
+x = 20
+y = 30
+z = x + y
+z
+
+
+# 6. Create three variables x, y, z and assign same value to all 3 variables in one code
+# line.
+
+x = y = z = 1
+z
+
+
+# 7. Develop basic calculator app for the user:
+# a. Input two numbers from user and assign it to variable num1 and num2
+# b. Perform addition of two numbers and assign to variable result_add
+# c. Display result_add to user.
+
+num1 = int(input('Enter first number: '))
+num2 = int(input('Enter second number: '))
+
+result_add = num1 + num2
+result_add
