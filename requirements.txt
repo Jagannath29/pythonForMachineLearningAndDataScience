@@ -3,3 +3,6 @@ matplotlib
 seaborn
 scikit-learn
 gdown
+ipywidgets
+imblearn
+openpyxl
